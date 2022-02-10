@@ -1,0 +1,7 @@
+﻿; Must be save as utf-8 and with BOM.
+
+w1 := Object()
+w1.insert("Tablacus")
+w1.insert("秀丸")
+w1.insert("Chrome")
+w1.insert("OneNote")
